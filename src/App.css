@@ -1,0 +1,82 @@
+body {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 12;
+  font-style: normal;
+  background-color: rgb(30, 30, 30);
+}
+
+h2 {
+  color:#f2f2f2;
+}
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.form-container {
+  width: 400px; 
+  margin: 0 auto 20px auto;
+}
+
+#participantsTable {
+  width: 100%;
+  max-width: 600px; 
+  margin: 0 auto;
+  border: 1px solid #ccc;
+}
+
+.submit-button {
+  background-color: #ffa600;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.submit-button:hover {
+  background-color: #ffa600; 
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+td {
+  color: white;
+}
+
+input[type=text], input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #00d107;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
