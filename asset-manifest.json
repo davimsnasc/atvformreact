@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/davimsnasc/atvformreact.git/static/css/main.6d58c38b.css",
+    "main.js": "/davimsnasc/atvformreact.git/static/js/main.87028c1f.js",
+    "static/js/453.ad6eb26e.chunk.js": "/davimsnasc/atvformreact.git/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/davimsnasc/atvformreact.git/index.html",
+    "main.6d58c38b.css.map": "/davimsnasc/atvformreact.git/static/css/main.6d58c38b.css.map",
+    "main.87028c1f.js.map": "/davimsnasc/atvformreact.git/static/js/main.87028c1f.js.map",
+    "453.ad6eb26e.chunk.js.map": "/davimsnasc/atvformreact.git/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d58c38b.css",
+    "static/js/main.87028c1f.js"
+  ]
+}
